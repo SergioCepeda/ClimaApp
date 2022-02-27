@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    right: 60rem;
+    top: -20px;
+  }
+  
+  .navLink {
+    text-decoration: none;
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.6rem;
+    margin-top: 30px;
+    margin-left: 1rem;
+    transform: scale(120%);
+  }
+  
+  @media screen and (max-width: 415px) {
+    .nav {
+      display: flex;
+      position: absolute;
+      justify-content: space-around;
+      right: 0.8rem;
+      top: -20px;
+    }
+  }

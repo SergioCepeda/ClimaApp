@@ -1,4 +1,8 @@
 body {
+  background-image: url('./components/imgs/background.jpg');
+  background-size: 100%;
+  width:100%;
+  height: 100%;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
